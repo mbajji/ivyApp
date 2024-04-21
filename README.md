@@ -4,10 +4,10 @@ This is an app that uses gemini API to give you tasks to stay less stressed and 
 
 ## Getting the code
 Clone the repository with git clone (https://github.com/mbajji/ivyApp.git). Enter the directory with cd ivy.  Use npm install or npm i to install the required npm features.
-Also do npm install react-bootstrap bootstrap 
+Also do npm install react-bootstrap bootstrap and npm install @google/generative-ai
 
 ## Setting up and running the frontend
-After cding into ivy folder,
+After cding into ivy folder and then src,
 Run npm start in the  folder to run the app  on http://localhost:3000/.
 
 ## How to use?
