@@ -14,7 +14,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #90b37e;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -24,10 +24,39 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.myHelp{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0;
+  border-radius: 15%;
+  margin-top: 3%;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  background-color: rgb(66, 215, 98);
 }
-
+.App-link {
+  color: #7fc59a;
+}
+.large-button{
+  cursor: pointer;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 0;
+  border-radius: 15%;
+  color: rgb(34, 162, 62);
+  margin-top: 3%;
+  padding: 20px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 1000px;
+  background-color: white;
+  font-weight: bolder;
+  width: 200px;
+  height: 100px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
