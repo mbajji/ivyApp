@@ -3,7 +3,7 @@ Feeling Stressed or Anxious? Don't know what to do? Just ask Ivy your best dino 
 This is an app that uses gemini API to give you tasks to stay less stressed and less anxious. 
 
 ## Getting the code
-Clone the repository with git clone [https://github.com/vishaka-b/study-nest.git](https://github.com/mbajji/ivyApp.git). Enter the directory with cd ivy.  Use npm install or npm i to install the required npm features.
+Clone the repository with git clone (https://github.com/mbajji/ivyApp.git). Enter the directory with cd ivy.  Use npm install or npm i to install the required npm features.
 Also do npm install react-bootstrap bootstrap 
 
 ## Setting up and running the frontend
