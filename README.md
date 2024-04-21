@@ -18,3 +18,6 @@ Have fun! :)
 ## Creators
 Ask Ivy is brought to you by:
 Maheswari Bajji [https://github.com/mbajji]
+
+## Learn More?
+follow Ask Ivy on Devpost https://devpost.com/software/ivy-j9gpkw?ref_content=my-projects-tab&ref_feature=my_projects
